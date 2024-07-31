@@ -22,5 +22,5 @@ To use artifacts of this repository in your project add it to your Maven pom.xml
 </project>
 ```
 
-The repository has been set up by following this guide:
-[Using GitHub as a Maven Repository - DZone](https://dzone.com/articles/using-github-as-maven-repository)
+How to setup such a repository is described in this blog:
+[Homemade Public Maven Repository](https://www.eomasters.org/post/homemade-public-maven-repository)
