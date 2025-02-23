@@ -9,7 +9,7 @@ To use artifacts of this repository in your project add it to your Maven pom.xml
     <repositories>
         <repository>
             <id>mvn-repo</id>
-            <url>https://raw.githubusercontent.com/eomasters-repos/mvn-repo/main/</url>
+            <url>https://github.com/eomasters-repos/mvn-repo/raw/refs/heads/main/</url>
             <releases>
               <enabled>true</enabled>
             </releases>
